@@ -1,6 +1,5 @@
 def main():
-    print("Hello from dsa-in-practice!")
-
+    print("DSA-IN-PRACTICE")
 
 if __name__ == "__main__":
     main()
